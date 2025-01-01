@@ -1,0 +1,1876 @@
+{
+  "questions": [
+    {
+      "question": "Kognitivní psychologie se zabývá hlavně",
+      "options": [
+        {
+          "option": "emocemi",
+          "key": "A"
+        },
+        {
+          "option": "poznávacími funkcemi",
+          "key": "B"
+        },
+        {
+          "option": "osobností člověka",
+          "key": "C"
+        },
+        {
+          "option": "umělou inteligencí",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "sociální psychologie studuje",
+      "options": [
+        {
+          "option": "mezilidské vztahy a interakce",
+          "key": "A"
+        },
+        {
+          "option": "majetkové poměry lidí ve vztahu k jejich mentálním funkcím",
+          "key": "B"
+        },
+        {
+          "option": "politické postoje vyplývající z osobnosti člověka",
+          "key": "C"
+        },
+        {
+          "option": "sociální psychologie neexistuje",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Malý Albert",
+      "options": [
+        {
+          "option": "Dali mu tolik jídla, kolik chtěl. Přesto nebyl obézní, protože přejídání není instinktivní, ale naučené, hlavně odkoukané od rodičů.",
+          "key": "A"
+        },
+        {
+          "option": "Vychovávali ho bez kontaktu s jinými lidmi. V 15 letech mu ukázali dívku, ale nezareagoval žádným projevem své sexuality, protože ta není vrozená, nýbrž naučená.",
+          "key": "B"
+        },
+        {
+          "option": "Dali mu na hraní potkana. Zároveň ho děsili hlasitými zvuky. Albert se začal potkana bát, i když se ho původně nebál.",
+          "key": "C"
+        },
+        {
+          "option": "Tvrdil, že test z psychologie se dá napsat bez předchozího studia. Ze zkoušky ho vyhodili, ale bylo mu to jedno.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Co znamená koncept esenciálních funkcí?",
+      "options": [
+        {
+          "option": "Na definovaných pracovištích by měly být rozmístěny vonné esence",
+          "key": "A"
+        },
+        {
+          "option": "Pokud někdo splňuje esenciální funkce (které musí být pro danou pozici definované) nelze jej jako uchazeče odmítnout z důvodu jiného handicapu",
+          "key": "B"
+        },
+        {
+          "option": "Manažeři ve vysokých funkcích jsou pro firmu esenciální, proto je nelze propustit.",
+          "key": "C"
+        },
+        {
+          "option": "Oblékejte se podle funkce, kterou chcete zastávat, ne podle té, kterou právě zastáváte.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Co bychom vyhodnotili jako objektivní kritický incident ve smyslu Critical incident concept (Flanagan, 1954)",
+      "options": [
+        {
+          "option": "Nízká inteligence",
+          "key": "A"
+        },
+        {
+          "option": "Nízká emoční inteligence",
+          "key": "B"
+        },
+        {
+          "option": "Pozdní příchod",
+          "key": "C"
+        },
+        {
+          "option": "Typická manažerská osobnost",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Potřebujete obsadit manažerskou pozici ve výrobě. Jedná se o prestižní místo, manažer bude mít pod sebou 20 dělníků. Koho vyberete?",
+      "options": [
+        {
+          "option": "Toho nejvýkonnějšího ze stávajících dělníků, protože když byl dobrým dělníkem, bude i dobrým manažerem",
+          "key": "A"
+        },
+        {
+          "option": "Toho nejstaršího, protože si to zaslouží",
+          "key": "B"
+        },
+        {
+          "option": "Toho, kdo byl do firmy přijat nejdříve, protože to bude všechny motivovat",
+          "key": "C"
+        },
+        {
+          "option": "Toho, u koho máte na základě validační studie důvod očekávat, že danou pozici nejlépe zvládne",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Psychologie jako věda",
+      "options": [
+        {
+          "option": "Spočívá v metodologii",
+          "key": "A"
+        },
+        {
+          "option": "Je velice lukrativním povoláním, hlavně v ČR",
+          "key": "B"
+        },
+        {
+          "option": "Je novodobým náboženstvím, musí se jí věřit",
+          "key": "C"
+        },
+        {
+          "option": "Přináší konečně nezpochybnitelnou pravdu",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Která hypotéza je lépe formulovaná, lépe testovatelná?",
+      "options": [
+        {
+          "option": "Zaměstnanci, kteří jsou na pracovní neschopnosti max 1 den / měsíc, jsou v průměru produktivnější",
+          "key": "A"
+        },
+        {
+          "option": "Spokojený zaměstnanec pracuje usilovněji",
+          "key": "B"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Emoce",
+      "options": [
+        {
+          "option": "Je vždy povzbudivá",
+          "key": "A"
+        },
+        {
+          "option": "Je vždy tlumivá",
+          "key": "B"
+        },
+        {
+          "option": "Má jako nedílnou součást tělesnou reakci",
+          "key": "C"
+        },
+        {
+          "option": "Do manažerského života nepatří",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Emoce",
+      "options": [
+        {
+          "option": "Se na rozhodování žádným způsobem nepodílí",
+          "key": "A"
+        },
+        {
+          "option": "Jejich vlivem na rozhodování se dosud nikdo nezabýval",
+          "key": "B"
+        },
+        {
+          "option": "Se prokazatelně podílejí na rozhodovacím procesu člověka",
+          "key": "C"
+        },
+        {
+          "option": "Veškeré rozhodování probíhá pouze na základě emocí",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Polygraf detektor lži",
+      "options": [
+        {
+          "option": "Odhalí vše, co není pravda",
+          "key": "A"
+        },
+        {
+          "option": "Registruje myšlenkové procesy. Aby rozlišil pravdu od lži, musí porovnat velké množství správných a chybných odpovědí",
+          "key": "B"
+        },
+        {
+          "option": "Registruje emocionální tělesnou odpověď",
+          "key": "C"
+        },
+        {
+          "option": "Vyděsí vyšetřovaného a ten raději prozradí vše, co ví",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Schopnost prožít radost",
+      "options": [
+        {
+          "option": "Je matoucí. Manažer musí usilovat o objektivní výsledek, ne subjektivní pocity.",
+          "key": "A"
+        },
+        {
+          "option": "Je slabost. Manažer se musí soustředit na vůdcovské efekty.",
+          "key": "B"
+        },
+        {
+          "option": "Oslabuje. Nikdy se nesmíme spokojit s daným stavem, musíme usilovat o lepší výkony.",
+          "key": "C"
+        },
+        {
+          "option": "Je nezbytným předpokladem mentálního zdraví.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Manažerka a její dítě",
+      "options": [
+        {
+          "option": "Pokud manažerka sleduje během těhotenství pornografická videjka, její dítě bude prostituovat, až vyroste",
+          "key": "A"
+        },
+        {
+          "option": "Manažerka by měla během těhotenství pít alkohol a kouřit cigarety, pokud to zmírní její obavy z návratu do práce.",
+          "key": "B"
+        },
+        {
+          "option": "Pokud manažerka hraje během těhotenství videohry obsahující více než 7% násilí, její dítě se narodí jako hraniční psychopat",
+          "key": "C"
+        },
+        {
+          "option": "Manažerka by se během těhotenství měla vyhýbat ionizujícímu záření, cigaretám, většímu množství alkoholu, infekčním chorobám, především zarděnkám. Pokud se chystá otěhotnět, měla by důsledně doléčit veškeré venerické choroby (syfilis, kapavku).",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Manažer by měl",
+      "options": [
+        {
+          "option": "Uvědomit si, že fyzický kontakt mezi lidmi je absolutně nepřípustný",
+          "key": "A"
+        },
+        {
+          "option": "Dát do pořádku své osobní vztahy",
+          "key": "B"
+        },
+        {
+          "option": "Vždy nosit masku profesionality. Co se děje pod ní, stejně nikoho nezajímá.",
+          "key": "C"
+        },
+        {
+          "option": "Uvědomit si, že všechny problémy vznikají v dětství a starého psa novým kouskům nenaučíš, musíš na něj vzít nové koště, které dobře mete.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Manažerská osobnost",
+      "options": [
+        {
+          "option": "Osobnost je pro manažera dost důležitá. Není moc snadné ji správně diagnostikovat.",
+          "key": "A"
+        },
+        {
+          "option": "Osobnost je klíčová a snadno diagnostikovatelná, pokud si na to najmeme konzultanta.",
+          "key": "B"
+        },
+        {
+          "option": "Osobnost je nejpodstatnější. Kdo nemá správnou manažerskou osobnost, musí z kola ven. Nejsprávnější diagnostika je formou on-line psychotestu, jehož výsledkům nerozumíme, tak jim věříme.",
+          "key": "C"
+        },
+        {
+          "option": "Lidé žádnou osobnost nemají, reagují deterministicky (Kaiser O., 1985). Osobnostní diagnostika je byznys šarlatánů a stojí čistě na Forerově efektu.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Manažer by měl firmu řídit jako",
+      "options": [
+        {
+          "option": "Auto",
+          "key": "A"
+        },
+        {
+          "option": "Stát",
+          "key": "B"
+        },
+        {
+          "option": "Firmu",
+          "key": "C"
+        },
+        {
+          "option": "Pokud ve firmě pracují nějací lidé, tak stejně nebude možné je řídit. Manažer může řídit leda sebe, ani to moc nezvládne.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Motivace",
+      "options": [
+        {
+          "option": "Je komplexní. Zahrnuje emocionální, pudovou, podmíněně reflexivní, diasynkratickou a instinktivní komponentu.",
+          "key": "A"
+        },
+        {
+          "option": "Je komplexní. Zahrnuje kognitivní interpretaci, emocionální komponentu, je do značné míry ovlivněna osobností.",
+          "key": "B"
+        },
+        {
+          "option": "Je single-faktoriální. Vyplývá z dráždění centra motivace v mozku",
+          "key": "C"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Maslowova hierarchie potřeb (1943)",
+      "options": [
+        {
+          "option": "Je uznávanou teorií, která je široce použitelná v industriální a manažerské psychologii",
+          "key": "A"
+        },
+        {
+          "option": "Je uznávanou teorií, která je jen minimálně použitelná v industriální a manažerské psychologii",
+          "key": "B"
+        },
+        {
+          "option": "Má podobu pyramidy, postavené na hrot",
+          "key": "C"
+        },
+        {
+          "option": "Má podobu hvězdy, zakreslené uvnitř kruhu",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Mezi slabiny Maslowovy teorie potřeb (1943) nepatří konstatování, že",
+      "options": [
+        {
+          "option": "jedno chování může sloužit uspokojení potřeb na různých stupních pyramidy",
+          "key": "A"
+        },
+        {
+          "option": "jednu potřebu lze uspokojit různým chováním",
+          "key": "B"
+        },
+        {
+          "option": "empirická zkušenost ji opakovaně vyvrací",
+          "key": "C"
+        },
+        {
+          "option": "lidské potřeby jsou obecně popsatelné a v mnoha ohledech totožné",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Podle Herzbergovy dvoufaktorové teorie (1968)",
+      "options": [
+        {
+          "option": "Můžeme obtížně, ale přece identifikovat lidi, ze kterých nikdy nebudou dobří manažeři",
+          "key": "A"
+        },
+        {
+          "option": "Může jednoduše identifikovat lidi, ze kterých nikdy nebudou dobří zaměstnanci",
+          "key": "B"
+        },
+        {
+          "option": "Existují stupně pyramidy, které nikdy nebudou plně uspokojeny",
+          "key": "C"
+        },
+        {
+          "option": "Existují motivátory, které pomohou nabudit motivaci a uspokojení",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Ječíte na své zaměstnance, že mají nízkou vnitřní motivaci. Co by o tom řekl zkušený industriální psycholog?",
+      "options": [
+        {
+          "option": "Vybral jste si špatné zaměstnance",
+          "key": "A"
+        },
+        {
+          "option": "Nechápete, co je to motivace a nerozumíte motivaci svých zaměstnanců",
+          "key": "B"
+        },
+        {
+          "option": "Pokud jste emočně labilní, měla byste před kontaktem se zaměstnanci provádět alespoň hodinové meditační cvičení a vyhnout se kofeinu",
+          "key": "C"
+        },
+        {
+          "option": "Přestaňte ječet a vysvětlete zaměstnancům po dobrém, jak vás zklamali",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Behaviorismus v manažerské praxi:",
+      "options": [
+        {
+          "option": "Lidé se budou chovat podle očekávané odměny, nebo trestu",
+          "key": "A"
+        },
+        {
+          "option": "Lidé budou především ovlivněni naším manažerským příkladem",
+          "key": "B"
+        },
+        {
+          "option": "Lidé podají nejlepší výkony pouze pokud je autenticky vyděsíme",
+          "key": "C"
+        },
+        {
+          "option": "Lidé podají nejlepší výkony pouze pokud je systematicky chválíme",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Který manažersky motivační výrok je z hlediska psychologického behaviorismu a reward / expectancy theory správný?",
+      "options": [
+        {
+          "option": "Musíte být loajálnější k firmě, nebo se budu zlobit!",
+          "key": "A"
+        },
+        {
+          "option": "Musíte se všichni více snažit, být mnohem produktivnější, jinak se všichni dostaneme do potíží!",
+          "key": "B"
+        },
+        {
+          "option": "Pokud se příštích půl roku ani jednou neopozdíte, dostanete odměnu před Vánoci ve výši Kč 3 000,-.",
+          "key": "C"
+        },
+        {
+          "option": "Pokud zvýšíte svůj pracovní výkon dvakrát, tak vás překvapím skvělou odměnou",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Který výrok nejlépe odpovídá Teorii blízkosti (Proximity theory) Leona Festingera?",
+      "options": [
+        {
+          "option": "Své přátele nacházíme mezi lidmi, kteří žijí a pohybují se blízko nás. Podle nich také upravujeme svá motivační schémata.",
+          "key": "A"
+        },
+        {
+          "option": "Své přátele nacházíme mezi lidmi, kteří mají stejné názory a zájmy. Podle nich také upravujeme svá motivační schémata.",
+          "key": "B"
+        },
+        {
+          "option": "Své přátele nacházíme mezi lidmi stejného věku. Podle nich také upravujeme svá motivační schémata.",
+          "key": "C"
+        },
+        {
+          "option": "Své přátele nacházíme mezi lidmi podobné postavy. Podle nich také upravujeme svá motivační schémata.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Motivační systémy",
+      "options": [
+        {
+          "option": "Lidi musíme chválit, i kdybychom jim měli lhát. Jedině pozitivní motivace funguje.",
+          "key": "A"
+        },
+        {
+          "option": "Lidi musíme strašit vyhazovem, i když jsou to docela dobří pracanti. Hrozny se také lisují, aby vydaly nejvíce vína.",
+          "key": "B"
+        },
+        {
+          "option": "Nejúčinnější jsou systémy, které spojují definované chování s odměnou, či trestem.",
+          "key": "C"
+        },
+        {
+          "option": "Jsou veskrze zbytečné a drahé. Jediné, na čem záleží, je vnitřní motivace a tu musíme posoudit na přijímacím pohovoru.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "S jakým tvrzením souhlasíte?",
+      "options": [
+        {
+          "option": "První dojem je slabinou zaměstnanců, ale silnou stránkou manažerů",
+          "key": "A"
+        },
+        {
+          "option": "Efekt prvního dojmu neexistuje, je to mýtus",
+          "key": "B"
+        },
+        {
+          "option": "Zkušený manažer chápe slabiny efektu prvního dojmu a učí se s ním pracovat",
+          "key": "C"
+        },
+        {
+          "option": "Efekt prvního dojmu existoval u člověka jen v průběhu evoluce, v dnešní době byl nahrazen našimi vyspělými kognitivními funkcemi.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Lidi poznám podle chůze. Je až neuvěřitelné, kolik mi toho lidé na sebe prozrazují jen prostou chůzí. Kandidát přijde, a další hodnocení je prakticky zbytečné. Tímto svým postojem demonstruji, že",
+      "options": [
+        {
+          "option": "Jsem velmi zkušeným manažerem",
+          "key": "A"
+        },
+        {
+          "option": "Jsem velmi zkušeným manažerským psychologem",
+          "key": "B"
+        },
+        {
+          "option": "Si neuvědomuji, jak silně haló efekt ovlivňuje moje vnímání ostatních. Copak je asi v nepořádk s mojí vlastní chůzí?",
+          "key": "C"
+        },
+        {
+          "option": "Neznám výsledky moderních výzkumů. Lidé s divnou chůzí mají v průměru o 17% vyšší emoční inteligenci.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Kauzální atribuce znamená:",
+      "options": [
+        {
+          "option": "Souvislosti mezi příčinami, okolnostmi a následky v chování vlastním i druhých lidí nahlížíme subjektivně a zkresleně",
+          "key": "A"
+        },
+        {
+          "option": "Každý člověk má nějaký oblíbený předmět, který je pro něj typický",
+          "key": "B"
+        },
+        {
+          "option": "Každý člověk má nějakou typickou větu, nebo alespoň zvuk",
+          "key": "C"
+        },
+        {
+          "option": "Manažer je povyšován tak dlouho, až se dostane na pozici, na kterou nestačí",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Fundamentální atribuční chyba",
+      "options": [
+        {
+          "option": "Systematická chyba zatěžující psychologický výzkum",
+          "key": "A"
+        },
+        {
+          "option": "Stejnému následku přisuzujeme u sebe jiné příčinné souvislosti, než u ostatních",
+          "key": "B"
+        },
+        {
+          "option": "Náhodná chyba ve výpočtu, která se ve velkém souboru dat vyruší s ostatními náhodnými chybami",
+          "key": "C"
+        },
+        {
+          "option": "Ráno vidíme všechno černěji",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Které přísloví vystihuje princip psychologické projekce?",
+      "options": [
+        {
+          "option": "Jak se do lesa volá, tak se z lesa ozývá",
+          "key": "A"
+        },
+        {
+          "option": "Kdo chce s vlky býti, musí s nimi výti",
+          "key": "B"
+        },
+        {
+          "option": "Podle sebe soudím tebe",
+          "key": "C"
+        },
+        {
+          "option": "Kdo jinému jámu kopá, sám do ní padá",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Které psychologické testy považujeme za testy projekční?",
+      "options": [
+        {
+          "option": "Testy inteligence",
+          "key": "A"
+        },
+        {
+          "option": "Testy emoční inteligence",
+          "key": "B"
+        },
+        {
+          "option": "Testy projekční inteligence",
+          "key": "C"
+        },
+        {
+          "option": "Murrayův tématický apercepční test",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Pokud zaměstnanec věří, že mu určité chování přinese odměnu, po které touží, bude motivován se právě tak chovat. Toto konstatování vychází z",
+      "options": [
+        {
+          "option": "Maslowovy hierarchie potřeb",
+          "key": "A"
+        },
+        {
+          "option": "Herzbergovy dvoufaktorové teorie",
+          "key": "B"
+        },
+        {
+          "option": "Behavioristické teorie očekávání a odměny",
+          "key": "C"
+        },
+        {
+          "option": "Nepochopení. Takový zaměstnanec nechápe, co je v životě opravdu důležité.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Efektivní hierarchie uvnitř firmy:",
+      "options": [
+        {
+          "option": "Moc patří do rukou kompetentních lídrů, zodpovědnost podřízeným a informační toky řídí administrativa a asistentky",
+          "key": "A"
+        },
+        {
+          "option": "Za každou chybu odpovídá celý tým a všichni členové budou potrestáni",
+          "key": "B"
+        },
+        {
+          "option": "Kdo má nejvíce moci, musí mít nejvíce odpovědnosti a největší kontrolu nad tokem informací",
+          "key": "C"
+        },
+        {
+          "option": "Rozhodující pravomoc v každém sporu by měl mít management lidských zdrojů,protože lidé jsou to nejcennější v každé firmě.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "behaviorální psychologie klade důraz na",
+      "options": [
+        {
+          "option": "poznávací procesy",
+          "key": "A"
+        },
+        {
+          "option": "prožívání emocí",
+          "key": "B"
+        },
+        {
+          "option": "objektivizovatelné chování",
+          "key": "C"
+        },
+        {
+          "option": "podvědomé procesy",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Nositelem signálu na úrovni neuronu je",
+      "options": [
+        {
+          "option": "Elektrický proud stejně jako v kovovém drátu",
+          "key": "A"
+        },
+        {
+          "option": "Akční potenciál, který se šíří jednosměrně",
+          "key": "B"
+        },
+        {
+          "option": "Magnetický flip",
+          "key": "C"
+        },
+        {
+          "option": "Na úrovni neuronu žádný přenos signálu neprobíhá",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Ženský a mužský mozek",
+      "options": [
+        {
+          "option": "Ženy mají více neuronů, ale méně synapsí",
+          "key": "A"
+        },
+        {
+          "option": "Muži mají menší amygdalu a více šedé kůry",
+          "key": "B"
+        },
+        {
+          "option": "Ženy mají větší ženskou hemisféru, muži zase tu mužskou",
+          "key": "C"
+        },
+        {
+          "option": "Ženy mozek nemají, muži zase nemají prodlouženou míchu",
+          "key": "D"
+        },
+        {
+          "option": "Mezi ženským a mužským mozkem neumíme najít podstatné rozdíly",
+          "key": "E"
+        },
+        {
+          "option": "Muži mají v páteři ještě jeden maličký mozek, jako měl i brontosaurus",
+          "key": "F"
+        }
+      ],
+      "correct_answer": "E"
+    },
+    {
+      "question": "Co je to lab-coat bias (efekt bílého pláště)",
+      "options": [
+        {
+          "option": "Průběh experimentu jako pozorovatelé ovlivňujeme už svojí pouhou přítomností",
+          "key": "A"
+        },
+        {
+          "option": "Manažeři by měli nosit černé oblečení, pokud ovšem nejsou v pracovním oděvu (laboratoř, doktoři atd.)",
+          "key": "B"
+        },
+        {
+          "option": "Postupem času si jako manažeři budujeme nános cyničnosti a odstupu od podřízených",
+          "key": "C"
+        },
+        {
+          "option": "Pokud se chceme jako manažeři zlepšit, musíme změnit i oblečení a účes, aby byla naše změna pro podřízené uvěřitelná.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Russellův circumplex [1980]:",
+      "options": [
+        {
+          "option": "Většina emocí vyplývá ze zakomplexovanosti",
+          "key": "A"
+        },
+        {
+          "option": "Všechny emoce a jejich projevy jsou nějakou kombinací valence a aktivace",
+          "key": "B"
+        },
+        {
+          "option": "Zapomínání je aktivním procesem. Mozek vymaže přebytečná data.",
+          "key": "C"
+        },
+        {
+          "option": "Manažer by měl být ve svém chování konzistentní, nestřídat emoce.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Manažerka a její dítě",
+      "options": [
+        {
+          "option": "Pokud manažerka sleduje během těhotenství pornografická videjka, její dítě bude prostituovat, až vyroste",
+          "key": "A"
+        },
+        {
+          "option": "Manažerka by měla během těhotenství pít alkohol a kouřit cigarety, pokud to zmírní její obavy z návratu do práce po covidovém lockdownu.",
+          "key": "B"
+        },
+        {
+          "option": "Pokud manažerka hraje během těhotenství videohry obsahující více než 7% násilí, její dítě se narodí jako hraniční psychopat",
+          "key": "C"
+        },
+        {
+          "option": "Manažerka by se během těhotenství měla vyhýbat ionizujícímu záření, cigaretám, většímu množství alkoholu, infekčním chorobám, především zarděnkám. Pokud se chystá otěhotnět, měla by důsledně doléčit veškeré venerické choroby (syfilis, kapavku).",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Motivace",
+      "options": [
+        {
+          "option": "Je komplexní. Zahrnuje emocionální, pudovou, podmíněně reflexivní, diasynkratickou a instinktivní komponentu.",
+          "key": "A"
+        },
+        {
+          "option": "Je komplexní. Zahrnuje kognitivní interpretaci, emocionální komponentu, je do značné míry ovlivněna osobností.",
+          "key": "B"
+        },
+        {
+          "option": "Je single-faktoriální. Vyplývá z dráždění centra motivace v mozku",
+          "key": "C"
+        },
+        {
+          "option": "Je zastaralým a opuštěným psychologickým konceptem",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Ječíte na své zaměstnance, že mají nízkou vnitřní motivaci. Co by o tom řekl zkušený industriální psycholog?",
+      "options": [
+        {
+          "option": "Vybral jste si špatné zaměstnance",
+          "key": "A"
+        },
+        {
+          "option": "Odstraňte z kuchyňky všechny ostré předměty (objednávejte do práce jen pizzu a asijská jídla, co se dají jíst tyčinkami)",
+          "key": "B"
+        },
+        {
+          "option": "Nechápete, co je to motivace a nerozumíte motivaci svých zaměstnanců",
+          "key": "C"
+        },
+        {
+          "option": "Pokud jste emočně labilní, měla byste před kontaktem se zaměstnanci provádět alespoň hodinové meditační cvičení a vyhnout se kofeinu",
+          "key": "D"
+        },
+        {
+          "option": "Přestaňte ječet a vysvětlete zaměstnancům po dobrém, jak vás zklamali",
+          "key": "E"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Který manažersky motivační výrok je z hlediska psychologického behaviorismu a reward / expectancy theory správný?",
+      "options": [
+        {
+          "option": "Musíte být loajálnější k firmě, nebo se budu zlobit!",
+          "key": "A"
+        },
+        {
+          "option": "Musíte se všichni více snažit, být mnohem produktivnější, jinak se všichni dostaneme do potíží!",
+          "key": "B"
+        },
+        {
+          "option": "Pokud se příštích půl roku ani jednou neopozdíte, dostanete odměnu před Vánoci ve výši 3 000,-.",
+          "key": "C"
+        },
+        {
+          "option": "Pokud zvýšíte svůj pracovní výkon dvakrát, tak vás překvapím skvělou odměnou",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Lidi poznám podle chůze. Je až neuvěřitelné, kolik mi toho lidé na sebe prozrazují jen prostou chůzí. Kandidát přijde, a další hodnocení je prakticky zbytečné. Tímto svým postojem demonstruji, že",
+      "options": [
+        {
+          "option": "Jsem velmi zkušeným manažerem",
+          "key": "A"
+        },
+        {
+          "option": "Jsem velmi zkušeným manažerským psychologem",
+          "key": "B"
+        },
+        {
+          "option": "Žádné jablko nepadá daleko od stromu",
+          "key": "C"
+        },
+        {
+          "option": "Si neuvědomuji, jak silně haló efekt ovlivňuje moje vnímání ostatních. Copak je asi v nepořádku s mojí vlastní chůzí?",
+          "key": "D"
+        },
+        {
+          "option": "Neznám výsledky moderních výzkumů. Lidé s divnou chůzí mají v průměru o 17% vyšší emoční inteligenci.",
+          "key": "E"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Které psychologické testy považujeme za testy projekční?",
+      "options": [
+        {
+          "option": "Testy inteligence",
+          "key": "A"
+        },
+        {
+          "option": "Power testy",
+          "key": "B"
+        },
+        {
+          "option": "Testy emoční inteligence",
+          "key": "C"
+        },
+        {
+          "option": "Testy projekční inteligence",
+          "key": "D"
+        },
+        {
+          "option": "Murrayův tématický apercepční test",
+          "key": "E"
+        }
+      ],
+      "correct_answer": "E"
+    },
+    {
+      "question": "Mezní holo-psychologie studuje",
+      "options": [
+        {
+          "option": "Afektivní procesy člověka v situaci krajního vypětí",
+          "key": "A"
+        },
+        {
+          "option": "Biologicko-kybernetické procesy probíhající v lidském mozku",
+          "key": "B"
+        },
+        {
+          "option": "Poznávací procesy",
+          "key": "C"
+        },
+        {
+          "option": "Takový obor neexistuje",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Vlivem chemických látek (léků, drog) na mozek člověka se nejvíce zabývá",
+      "options": [
+        {
+          "option": "Biologická psychologie a psychiatrie",
+          "key": "A"
+        },
+        {
+          "option": "Psychoanalýza",
+          "key": "B"
+        },
+        {
+          "option": "Psychosociální diastáza",
+          "key": "C"
+        },
+        {
+          "option": "Psychologie osobnosti",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Barnumův efekt",
+      "options": [
+        {
+          "option": "Věříme, že pravděpodobnost budoucích jevů nelze objektivně stanovit",
+          "key": "A"
+        },
+        {
+          "option": "Věříme, že člověk převyšuje ostatní tvory ve vesmíru svými mentálními funkcemi",
+          "key": "B"
+        },
+        {
+          "option": "Věříme, že minulost nelze posoudit jinak, než subjektivně",
+          "key": "C"
+        },
+        {
+          "option": "Věříme, že obecné hodnocení nám bylo šito na míru (horoskop, psychotest)",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Mere exposure effect (efekt prostého vystavení) podle R. Zajonce:",
+      "options": [
+        {
+          "option": "Aniž bychom si to uvědomovali, preferujeme obrázek, který jsme předtím podprahově viděli",
+          "key": "A"
+        },
+        {
+          "option": "Nelze druhého pochopit jen podle vnějších znaků",
+          "key": "B"
+        },
+        {
+          "option": "Druhé lidi hodnotíme pouze podle vnějších znaků",
+          "key": "C"
+        },
+        {
+          "option": "Člověk dává na odiv ty vlastnosti, které pokládá za své silné stránky",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Lidský mozek obsahuje neuronů řádově:",
+      "options": [
+        {
+          "option": "100 tisíc",
+          "key": "A"
+        },
+        {
+          "option": "100 milionů",
+          "key": "B"
+        },
+        {
+          "option": "100 miliard",
+          "key": "C"
+        },
+        {
+          "option": "100 bilionů",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Neurony se spojují a tvoří",
+      "options": [
+        {
+          "option": "Dráhy a složitě propojené sítě",
+          "key": "A"
+        },
+        {
+          "option": "Dráhy, které fungují izolovaně",
+          "key": "B"
+        },
+        {
+          "option": "Centra, která fungují izolovaně a autonomně",
+          "key": "C"
+        },
+        {
+          "option": "Neurony se navzájem funkčně nespojují",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Synapse je",
+      "options": [
+        {
+          "option": "Horní plocha mozku",
+          "key": "A"
+        },
+        {
+          "option": "Divoké chování, které ještě není patologické",
+          "key": "B"
+        },
+        {
+          "option": "Místo, kde se signál přenáší z jednoho neuronu na jiný",
+          "key": "C"
+        },
+        {
+          "option": "Špatný výběr spolupracovníků",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Mozek člověka je možno zkoumat",
+      "options": [
+        {
+          "option": "elektrofyziologickými metodami, funkčními zobrazovacími metodami, metodami chemické analýzy",
+          "key": "A"
+        },
+        {
+          "option": "pouze metodou psychologického pohovoru",
+          "key": "B"
+        },
+        {
+          "option": "pouze morfologicky (pitvat)",
+          "key": "C"
+        },
+        {
+          "option": "mozek nemá smysl zkoumat, s mentálními procesy člověka nesouvisí",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Malý Albert",
+      "options": [
+        {
+          "option": "Dali mu tolik jídla, kolik chtěl. Přesto nebyl obézní, protože přejídání není instinktivní, ale naučené, hlavně odkoukané od rodičů.",
+          "key": "A"
+        },
+        {
+          "option": "Vychovávali ho bez kontaktu s jinými lidmi. V 15 letech mu ukázali dívku, ale nezareagoval žádným projevem své sexuality, protože ta není vrozená, nýbrž naučená.",
+          "key": "B"
+        },
+        {
+          "option": "Dali mu na hraní potkana. Zároveň ho děsili hlasitými zvuky. Albert se začal potkana bát, i když se ho původně nebál.",
+          "key": "C"
+        },
+        {
+          "option": "Tvrdil, že test z psychologie se dá napsat bez předchozího studia. Ze zkoušky ho vyhodili a tak na to nadával.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "S jakým tvrzením ohledně job analysis (JA, analýzy pracovního místa) můžeme souhlasit?",
+      "options": [
+        {
+          "option": "Manažer by měl znát vlastní JA i JA svých podřízených",
+          "key": "A"
+        },
+        {
+          "option": "Manažer by měl být lídr. JA je starostí industriálních psychologů a konzultantů",
+          "key": "B"
+        },
+        {
+          "option": "JA není podstatná. Podstatná je osobnost manažera.",
+          "key": "C"
+        },
+        {
+          "option": "Studovat JA má význam pouze ve výrobním sektoru.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Kritéria hodnocení výkonu pro nějakou pozici by měla být",
+      "options": [
+        {
+          "option": "Jednoznačně stanovena, měřitelná a nesmí jich být mnoho, aby se dala průběžně sledovat",
+          "key": "A"
+        },
+        {
+          "option": "Stanovena strategicky, aby každý zaměstnanec měl volnost jejich výkladu a mohl tak samostatně uplatnit své nejsilnější stránky",
+          "key": "B"
+        },
+        {
+          "option": "Pro každého zaměstnance na dané pozici jiná, podle osobnosti toho kterého zaměstnance",
+          "key": "C"
+        },
+        {
+          "option": "Hodnocení zaměstnanců nemá probíhat podle kritérií, ale podle manažerského instinktu a prvního dojmu.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Co je to KSAO?",
+      "options": [
+        {
+          "option": "Systém řízení hierarchizace hodnot",
+          "key": "A"
+        },
+        {
+          "option": "Manažerská metoda popsaná Benem Settrou",
+          "key": "B"
+        },
+        {
+          "option": "Akronym, vyjadřující přesvědčení, že manažerem může být každý",
+          "key": "C"
+        },
+        {
+          "option": "Souhrn znalostí, dovedností, schopností a „ostatních“ vlastností (požadavků)",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Dotazníky a psychotesty",
+      "options": [
+        {
+          "option": "Jsou metodologicky snadné, umí je vyhodnotit kdokoli",
+          "key": "A"
+        },
+        {
+          "option": "Jsou téměř absolutně spolehlivé",
+          "key": "B"
+        },
+        {
+          "option": "Jeden psychotest je použitelný pro všechny možné účely",
+          "key": "C"
+        },
+        {
+          "option": "Nic z výše uvedeného",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Hawthornský efekt:",
+      "options": [
+        {
+          "option": "Průmyslová výroba je z hlediska managementu efektivnější, než terciární sektor",
+          "key": "A"
+        },
+        {
+          "option": "Jsme produktivnější, pokud je nám věnována pozornost.",
+          "key": "B"
+        },
+        {
+          "option": "Na pracovních podmínkách nezáleží, jen na vnitřní motivaci",
+          "key": "C"
+        },
+        {
+          "option": "Drobné zranění si ošetříme až po konci směny, jinak nám klesá efektivita",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Která hypotéza je lépe formulovaná, lépe testovatelná?",
+      "options": [
+        {
+          "option": "Zaměstnanci, kteří jsou na pracovní neschopnosti max 1 den / měsíc, jsou v průměru produktivnější",
+          "key": "A"
+        },
+        {
+          "option": "Spokojený zaměstnanec pracuje usilovněji",
+          "key": "B"
+        },
+        {
+          "option": "Manažeři jsou lepší, než dělníci",
+          "key": "C"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Co je observační učení (observational learning)?",
+      "options": [
+        {
+          "option": "Nejlépe se učíme pomocí zrakových vjemů",
+          "key": "A"
+        },
+        {
+          "option": "Nejlépe se učíme hladoví",
+          "key": "B"
+        },
+        {
+          "option": "Co u druhých vidíme, to se od nich učíme",
+          "key": "C"
+        },
+        {
+          "option": "Člověk se může učit je prvních dvacet let života, později se nenaučí nic",
+          "key": "D"
+        },
+        {
+          "option": "Nejlépe se naučíme to, co nás baví",
+          "key": "E"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Emoční inteligence",
+      "options": [
+        {
+          "option": "Schopnost zvládat vlastní emoce a chápat emoce druhých přispívá efektivnějšímu manažerskému rozhodování",
+          "key": "A"
+        },
+        {
+          "option": "Je důležitější než IQ. Úplně nejdůležitější je spirituální inteligence.",
+          "key": "B"
+        },
+        {
+          "option": "Lidé s nízkým IQ mají vysoké EQ",
+          "key": "C"
+        },
+        {
+          "option": "V managementu se neuplatní. Podstatné je racionální rozhodování.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Co je podstatnou charakteristikou každé emoce?",
+      "options": [
+        {
+          "option": "Že si jí všimnou ostatní lidé",
+          "key": "A"
+        },
+        {
+          "option": "Dá se dobře ovládnout",
+          "key": "B"
+        },
+        {
+          "option": "Život by bez ní byl smutný",
+          "key": "C"
+        },
+        {
+          "option": "Že je třeba ji bez milosti potlačit",
+          "key": "D"
+        },
+        {
+          "option": "Tělesná odezva",
+          "key": "E"
+        }
+      ],
+      "correct_answer": "E"
+    },
+    {
+      "question": "„Existuje několik základních emocí, které jsou podkladem všech afektivních procesů a jejich projevů“ [Paul Ekman, 1992]",
+      "options": [
+        {
+          "option": "Ekmanova Koncepce základních emocí byla zatím potvrzena všemi empirickými studiemi",
+          "key": "A"
+        },
+        {
+          "option": "Ekmanovu Koncepci základních emocí empirické studie spíše vyvracejí. Jednotliví autoři se neshodnou ani na tom, které emoce jsou vlastně ty základní.",
+          "key": "B"
+        },
+        {
+          "option": "Podle Ekmanovy Koncepce je základní emocí vyrovnanost podobná buddhistické meditaci",
+          "key": "C"
+        },
+        {
+          "option": "Hlavním závěrem Ekmanovy Koncepce základních emocí je doporučení emocemi se dále nezabývat",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Emoce",
+      "options": [
+        {
+          "option": "Se na rozhodování žádným způsobem nepodílí",
+          "key": "A"
+        },
+        {
+          "option": "U člověka se na rozhodování nepodílí, ale u zvířat asi ano",
+          "key": "B"
+        },
+        {
+          "option": "Jejich vlivem na rozhodování se dosud nikdo nezabýval",
+          "key": "C"
+        },
+        {
+          "option": "Se prokazatelně podílejí na rozhodovacím procesu člověka",
+          "key": "D"
+        },
+        {
+          "option": "Veškeré rozhodování probíhá pouze na základě emocí",
+          "key": "E"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Empatie je",
+      "options": [
+        {
+          "option": "Situace, kdy pociťujeme stejné emoce jako někdo jiný",
+          "key": "A"
+        },
+        {
+          "option": "Schopnost autenticky prožívat emoce jiného člověka",
+          "key": "B"
+        },
+        {
+          "option": "Schopnost porozumět emocím jiného člověka",
+          "key": "C"
+        },
+        {
+          "option": "Schopnost vnutit druhým svou vlastní emoci",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Těhotná manažerka by se měla obloukem vyhnout",
+      "options": [
+        {
+          "option": "Jakémukoli potenciálnímu stresu",
+          "key": "A"
+        },
+        {
+          "option": "Zarděnkám",
+          "key": "B"
+        },
+        {
+          "option": "Kontaktu s podřízenými",
+          "key": "C"
+        },
+        {
+          "option": "Kontaktu s podřízenými muži",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Manažerská osobnost",
+      "options": [
+        {
+          "option": "Melancholik je rozhodně lepší manažer, než cholerik",
+          "key": "A"
+        },
+        {
+          "option": "Nejlepším manažerem bude vždy rudoprenní fondvik",
+          "key": "B"
+        },
+        {
+          "option": "Žádná ideální manažerská osobnost neexistuje",
+          "key": "C"
+        },
+        {
+          "option": "U manažera je podstatná spirituální inteligence, osobnost nehraje roli",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Ukazují nám obrázky, na kterých jsou nějací lidé v nějakých situacích. Máme popsat co je to za situace a co je to za lidi. Tomu se říká",
+      "options": [
+        {
+          "option": "Tématický apercepční test TAT",
+          "key": "A"
+        },
+        {
+          "option": "Kognitivní psychotest",
+          "key": "B"
+        },
+        {
+          "option": "Test emoční inteligence",
+          "key": "C"
+        },
+        {
+          "option": "Netuším, na té přednášce jsem nebyl a teď toho lituji. Nezasloužím si dobrou známku.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Paul E. Spector definuje motivaci způsobem, se kterým můžeme docela souhlasit. Je to:",
+      "options": [
+        {
+          "option": "„Motivace je stavem, který vede osobu k určitému chování, nebo dosažení nějakého cíle“",
+          "key": "A"
+        },
+        {
+          "option": "„Individuální motivace je odrazem sociálních potřeb společnosti“",
+          "key": "B"
+        },
+        {
+          "option": "„Motivace je kognitivním konstruktem, který se neprojevuje v chování manažera“",
+          "key": "C"
+        },
+        {
+          "option": "„Motivace je emocionální a osobnostní kaluží nenaplněných kognitivních ambicí“",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Maslowova hierarchie potřeb (1943)",
+      "options": [
+        {
+          "option": "Je uznávanou teorií, která je široce použitelná v industriální a manažerské psychologii",
+          "key": "A"
+        },
+        {
+          "option": "Je rozšířenou teorií, která je jen minimálně použitelná v industriální a manažerské psychologii",
+          "key": "B"
+        },
+        {
+          "option": "Má podobu pyramidy, postavené na hrot",
+          "key": "C"
+        },
+        {
+          "option": "Má podobu hvězdy, zakreslené uvnitř kruhu",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Vnitřní a vnější motivace",
+      "options": [
+        {
+          "option": "Lidé, kteří pracují pro peníze, nejsou výkonní.",
+          "key": "A"
+        },
+        {
+          "option": "Většina lidí má vysokou vnitřní motivaci vykonávat perfektně každý úkol (Karl Marx, 1914)",
+          "key": "B"
+        },
+        {
+          "option": "Vnitřní motivace je hlavním ukazatelem, po kterém máme u zaměstnanců i manažerů pátrat.",
+          "key": "C"
+        },
+        {
+          "option": "Vnitřní motivace je mýtus a výmluva neschopných manažerů",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Proč dávají firmy zaměstnancům hmotné benefity a nedají jim rovnou peníze?",
+      "options": [
+        {
+          "option": "Protože většina manažerů lidských zdrojů jsou hlupáci",
+          "key": "A"
+        },
+        {
+          "option": "Protože dávat někomu peníze je v naší kultuře méně zdvořilé, než nabídnout dárek. Například v USA je to naopak, v Japonsku zase má kultura dárků až extrémní podoby.",
+          "key": "B"
+        },
+        {
+          "option": "Je to kvůli daním",
+          "key": "C"
+        },
+        {
+          "option": "Peníze jsou neosobní a méně motivující. Proto by měl mít dárek nějakou hmotnou podobu, která vydrží a zaměstnanec ji má stále na očích. Hrnek je v tomto ohledu efektivnější, než např. zájezd.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Který manažersky motivační výrok je z hlediska psychologického behaviorismu a reward / expectancy theory správný?",
+      "options": [
+        {
+          "option": "Musíte být loajálnější k firmě, nebo se budu zlobit!",
+          "key": "A"
+        },
+        {
+          "option": "Musíte se všichni více snažit, být mnohem produktivnější, jinak se všichni dostaneme do potíží!",
+          "key": "B"
+        },
+        {
+          "option": "Pokud se příštích půl roku ani jednou neopozdíte, dostanete odměnu před Vánoci ve výši 3 000,-",
+          "key": "C"
+        },
+        {
+          "option": "Pokud zvýšíte svůj pracovní výkon dvakrát, tak vás překvapím skvělou odměnou",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Featherův experiment s rébusy a hlavolamy (1966) ukázal, že",
+      "options": [
+        {
+          "option": "Postupně rostoucí obtížnost úkolu vede k vyššímu celkovému výkonu",
+          "key": "A"
+        },
+        {
+          "option": "Nejlepší je začít nejtěžším úkolem, člověk si tak vybuduje solidní sebedůvěru",
+          "key": "B"
+        },
+        {
+          "option": "Lidé se nesnaží dosáhnout výkonu, bez ohledu na to, jak snadný, nebo obtížný je úkol",
+          "key": "C"
+        },
+        {
+          "option": "Lidé se hlavně snaží přisvojit si zásluhy někoho jiného",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Moji rodiče vždy chtěli, abych si našel přátele na vysoké úrovni. Místo toho se kamarádím s propadlíky, kteří bydlí na koleji na stejné chodbě. Taky jsem začal dost pít, asi to bude tím, že oni taky dost pijí. Můj životní příběh odpovídá",
+      "options": [
+        {
+          "option": "Festingerově teorii sociálního srovnávání",
+          "key": "A"
+        },
+        {
+          "option": "Festingerově teorii generačního úpadku",
+          "key": "B"
+        },
+        {
+          "option": "Festingerově teorii blízkosti",
+          "key": "C"
+        },
+        {
+          "option": "Festingerově teorii kognitivní disonance",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Všichni moji kolegové mají lepší auto než já. Manželce naše auto vyhovuje, ale mně to prostě vadí. Přece nejsem o nic horší profík, tak si taky můžu něco dovolit! Můj příběh odpovídá",
+      "options": [
+        {
+          "option": "Festingerově teorii sociálního srovnávání",
+          "key": "A"
+        },
+        {
+          "option": "Festingerově teorii hodnotového úpadku",
+          "key": "B"
+        },
+        {
+          "option": "Festingerově teorii profesního úpadku",
+          "key": "C"
+        },
+        {
+          "option": "Festingerově teorii kognitivní disonance",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Sociální percepce",
+      "options": [
+        {
+          "option": "Člověk intuitivně dobře chápe sebe sama, ale poznat druhé je nemožné",
+          "key": "A"
+        },
+        {
+          "option": "Člověk intuitivně dobře chápe sebe, i ostatní. To je výhoda empatie.",
+          "key": "B"
+        },
+        {
+          "option": "Člověk pochopí ostatní lidi, ale sám sobě je záhadou",
+          "key": "C"
+        },
+        {
+          "option": "Člověk chápe ostatní i sebe sama jen omezeně a zkresleně.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "S jakým tvrzením souhlasíte?",
+      "options": [
+        {
+          "option": "První dojem vzniká během prvních 20 vteřin kontaktu, je založen hlavně na neverbální informaci a je velmi přesný",
+          "key": "A"
+        },
+        {
+          "option": "První dojem vzniká během prvních 2 vteřin kontaktu, je založen hlavně na neverbální komunikaci a je z 97% přesný",
+          "key": "B"
+        },
+        {
+          "option": "Kompetentní manažer musí porozumět podřízeným již na základě prvního dojmu",
+          "key": "C"
+        },
+        {
+          "option": "První dojem nehraje roli, protože se snadno dá ovlivnit a / nebo napravit",
+          "key": "D"
+        },
+        {
+          "option": "První dojem zkresluje naše vnímání ostatních, je nepřesný a zavádějící",
+          "key": "E"
+        }
+      ],
+      "correct_answer": "E"
+    },
+    {
+      "question": "Dnes jsem potkal zaměstnankyni, která pro nás pracuje již mnoho let. Vždy byla taková šedá myška, nepříliš schopná. Ale dnes, světe div se, jak byla slušivě oblečená, jaký účes, jaké šik brýle! No, budu jí muset svěřit důležitější úkoly, asi ji i povýším. Jedná se o",
+      "options": [
+        {
+          "option": "Efekt prvního dojmu",
+          "key": "A"
+        },
+        {
+          "option": "Efekt druhé mízy",
+          "key": "B"
+        },
+        {
+          "option": "Kombinaci haló efektu a efektu nového",
+          "key": "C"
+        },
+        {
+          "option": "Zralý manažerský postoj. Šaty dělají člověka.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Psali jsme test z manažerské psychologie. Měl jsem nejhorší výsledek ze všech. Je neuvěřitelné, jaké štěstí ostatní mají, přitom jsou to hlupáci. Můj příběh je příkladem",
+      "options": [
+        {
+          "option": "Smůly, kterou mají talentovaní",
+          "key": "A"
+        },
+        {
+          "option": "Výjimky z pravidla (ceteris paribus)",
+          "key": "B"
+        },
+        {
+          "option": "Laboratorního zkreslení",
+          "key": "C"
+        },
+        {
+          "option": "Fundamentální atribuční chyby",
+          "key": "D"
+        },
+        {
+          "option": "Toho, že za férovost se platí a za poctivost si nic nekoupíš",
+          "key": "E"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Do firmy přichází nový, mladý manažer. Nové koště dobře mete a já si na něj dám dobrý pozor. Určitě bude usilovat o moje místo, nějakou sviňárnu na mne bude šít, nedívat se napravo ani nalevo, firmu klidně zničí, jen aby mne nahradil! Nejspíš ze mne mluví",
+      "options": [
+        {
+          "option": "Zkušenost s dnešní mládeží",
+          "key": "A"
+        },
+        {
+          "option": "Stařecká nevraživost",
+          "key": "B"
+        },
+        {
+          "option": "Demence",
+          "key": "C"
+        },
+        {
+          "option": "Projekce",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Výsledky výzkumu v industriální a manažerské psychologii",
+      "options": [
+        {
+          "option": "Se dají široce aplikovat. Co platí v Čechách, platí i na Slovensku, na Ukrajině či v Japonsku",
+          "key": "A"
+        },
+        {
+          "option": "Se dají extrapolovat jen velmi omezeně a opatrně. I v rámci jednoho odvětví a jedné země mohou existovat překvapivé rozdíly mezi jednotlivými firmami a jednotlivými lidmi",
+          "key": "B"
+        },
+        {
+          "option": "Žádný takový výzkum se nevede a není ani potřeba. Manažerské psychologii rozumí nejlépe konzultanti a koučové a ti by se za peníze, které berou vědci, ani nezvedli z postele.",
+          "key": "C"
+        },
+        {
+          "option": "Jsou především nesrozumitelné a příliš komplikované, takže se jimi nikdo neřídí",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Efektivní hierarchie uvnitř firmy:",
+      "options": [
+        {
+          "option": "Moc patří do rukou kompetentních lídrů, zodpovědnost podřízeným a informační toky řídí administrativa a asistentky",
+          "key": "A"
+        },
+        {
+          "option": "Za každou chybu odpovídá celý tým a všichni členové budou potrestáni",
+          "key": "B"
+        },
+        {
+          "option": "Kdo má nejvíce moci, musí mít nejvíce odpovědnosti a největší kontrolu nad tokem informací",
+          "key": "C"
+        },
+        {
+          "option": "Rozhodující pravomoc v každém sporu by měl mít management lidských zdrojů, protože lidé jsou to nejcennější v každé firmě.",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Kdy bude behavioristická teorie očekávání fungovat motivačně?",
+      "options": [
+        {
+          "option": "Když zaměstnanec věří, že se dokáže zachovat podle našich instrukcí, věří, že mu slíbenou odměnu skutečně dáme a jedná se o odměnu, o kterou má zájem.",
+          "key": "A"
+        },
+        {
+          "option": "Když zaměstnanec věří ve svůj úspěch navzdory všem překážkám",
+          "key": "B"
+        },
+        {
+          "option": "Když zaměstnanec jedná v zájmu celého týmu, ne jen v zájmu vlastním",
+          "key": "C"
+        },
+        {
+          "option": "Když tým zaměstnance v jeho úsilí podpoří",
+          "key": "D"
+        }
+      ],
+      "correct_answer": "A"
+    }
+  ]
+}
