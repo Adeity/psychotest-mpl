@@ -14,8 +14,6 @@ const isAnswerCorrect: Ref<boolean | null> = ref(null)
 const emit = defineEmits(['answerChecked', 'nextQuestionClicked'])
 const optionsRendered: Ref<Array<{option: string, key: string}>> = ref(shuffleArray([...props.options]))
 
-console.log(optionsRendered)
-
 const resetValues = async () => {
   selectedOption.value = ""
   answered.value = false
@@ -68,8 +66,8 @@ const wasAnsweredInCorrectly = (option:string) => {
         </label>
     </div>
   </div>
-  <button v-if="!answered" class="button is-primary mt-3" @click="handleAnswer">Odpovědět</button>
-  <button v-if="answered" class="button is-primary mt-3" @click="nextPage">Další otázka</button>
+  <button v-if="!answered" class="button is-primary mt-5" @click="handleAnswer">Odpovědět</button>
+  <button v-if="answered" class="button is-primary mt-5" @click="nextPage">Další otázka</button>
 </template>
 
 <style scoped>
