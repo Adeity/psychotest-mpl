@@ -1,33 +1,33 @@
-# psychoskola
+# Psychotest MPL
 
-This template should help get you started developing with Vue 3 in Vite.
+A web-based quiz application for managerial and psychological knowledge, built with [Vue 3](https://vuejs.org/) and [Vite](https://vitejs.dev/). The app presents randomized multiple-choice questions and tracks user progress and results.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Randomized order of questions and options for each session
+- Progress and results saved in local storage
+- Immediate feedback on answers
+- Reset and retake functionality
+- Responsive UI using [Bulma](https://bulma.io/) CSS framework
 
-## Type Support for `.vue` Imports in TS
+## Project Structure
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+- `src/App.vue` – Main application logic and quiz flow
+- `src/components/Question.vue` – Question display and answer handling
+- `src/assets/questions.json` – Question data
+- `src/utilities/shuffle.ts` – Utility for shuffling arrays
+- `src/assets/main.css` – Custom styles
 
-## Customize configuration
+## Getting Started
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+### Prerequisites
 
-## Project Setup
+- [Node.js](https://nodejs.org/) (v18+ recommended)
+- [npm](https://www.npmjs.com/)
 
-```sh
-npm install
-```
+## License
 
-### Compile and Hot-Reload for Development
+MIT
 
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
+---
+Questions are stored in [src/assets/questions.json](src/assets/questions.json). Main logic is in [src/App.vue](src/App.vue) and [src/components/Question.vue](src/components/Question.vue).
